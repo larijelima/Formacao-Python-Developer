@@ -11,6 +11,7 @@ Aprendiz iniciante com foco em Data Engineering que deseja adquirir conhecimento
 
  - [Formação Python  DIO](https://web.dio.me/track/formacao-python-developer)
  - [Roadmaps DIO Data Engineering](https://digitalinnovationone.github.io/roadmaps/careers/data-engineering/)
+ - [Trilha Python DIO no GitHub](https://github.com/digitalinnovationone/trilha-python-dio)
 
 
 ## Mapa da Trilha

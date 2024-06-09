@@ -1,4 +1,10 @@
-print("BEM VINDO AO MENU DE SUA CONTA BANCÁRIA")
+''' 
+============ OBJETIVO DO PROJETO ============
+Criar sistema bancário com as seguintes operações:
+- DEPÓSITO (apenas valores positivos)
+- SAQUE (com limite de R$500,00 por saque e máximo de três operações)
+- EXTRATO (contendo todas as movimentações)
+'''
 
 
 saldo = 0
